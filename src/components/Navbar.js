@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://chungvd.name.vn/"
+                href="https://react-blog-ten-chi.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
